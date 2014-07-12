@@ -16,10 +16,11 @@
   	}
   ],
   "permissions": [
-  	"activeTab"
+  	"storage", "activeTab"
   ],
   "icons": { "16": "icon16.png",
            	 "24": "icon24.png",
   			 "128": "icon128.png"
-  }
+  },
+  "options_page": "options.html"
 }
